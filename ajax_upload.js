@@ -6,7 +6,7 @@
  */
 
 ;
-(function () {
+(function (jQuery, window, document) {
     /**
      * registering plugin
      */
